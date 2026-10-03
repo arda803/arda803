@@ -6,4 +6,7 @@ Neyse şaka bir yana yapmış olduğum ve yüklediğim projelerden de kendi işi
 Biraz daha kişisel bilgilere girecek olursam İzmir'de yaşıyorum ve Konak İzmir Kız Lisesine gidiyorum, lisede 3. senemdeyim. Şu an hayatımda ne yapacağımla ilgili pek bir fikrim yok ama her işte elimden geldiğince uğraşmaya çalışıyorum.
 Şu an readme bölümü bayağı sade oldu ama ileride daha açıklayıcı bir şey hazırlamaya çalışacağım
 ## 🔭 Portfolyo
-[**→ İnteraktif portfolyoyu aç**](https://arda803.github.io)
+
+[![Portfolyo önizleme](./preview.gif)](https://arda803.github.io)
+
+*Merak eden bir geliştiricinin interaktif arşivi — Python · Web · Discord · Masaüstü*
